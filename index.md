@@ -3,44 +3,50 @@
 ## 💗 CS Interest
 ### Machine Learning Systems
 #### 🔥 Federated Learning Platform Development
-[简要描述平台功能]
-可展示图片（网页端，Android app启动训练照片，MQTT记录文档）
+- Web page for ML training
+
+<p align="center">
+    <img src="images/web.jpg?raw=true" style="width: 80%;"/>
+</p>
+
+
 
 ### Generative Models
 #### 🔥 Independent AI Application: Stable Diffusion with Image Editing
 - A Project for BackDrop Build Hackathon
-- [👉 GitHub Repo](https://github.com/AmyTao/Image-Editing-With-Stable-Diffusion)
+  - [👉 GitHub](https://github.com/AmyTao/Image-Editing-With-Stable-Diffusion)
+- Study Report
+  - [👉 GitHub](https://github.com/AmyTao/CSC6137-Generative-Models)
 
 ---
 ## 👣 Internship
 ### EE intern @ Amazon Asian Development Center
 
-[实习要点]
-[答辩ppt]
-[照片]
+- DC-DC converter and LDO circuit design
+- [My Internship Report](https://docs.google.com/presentation/d/1mLUHCWiKrravSWMgPCq_KNQd4oMpH96j/edit?usp=sharing&ouid=102058869752348221023&rtpof=true&sd=true)
 
 ---
 
 ## ✨ Projects
 ### CS186: Database (Berkeley)
-[👉 Code](https://github.com/AmyTao/CS186-Database)
+[👉 GitHub](https://github.com/AmyTao/CS186-Database)
 
 ### CS161: End-to-End Encrypted File System (Berkeley)
 - Collaborate with [Thea Feng](https://github.com/Thea-Feng)
 
-[👉 Code](https://github.com/cs161-students/sp23-proj2-midnights)
+[👉 GitHub](https://github.com/cs161-students/sp23-proj2-midnights)
 
 ### Operating Systems (CUHK-Shenzhen)
-[👉 Code](https://github.com/AmyTao/Operating-Systems)
+[👉 GitHub](https://github.com/AmyTao/Operating-Systems)
 
 ### Computer Architecture (CUHK-Shenzhen)
-[👉 Code](https://github.com/AmyTao/Computer-Architecture)
+[👉 GitHub](https://github.com/AmyTao/Computer-Architecture)
 
 ### Computer Networks (CUHK-Shenzhen)
-[👉 Code](https://github.com/AmyTao/ECE4016-Computer-Networks)
+[👉 GitHub](https://github.com/AmyTao/ECE4016-Computer-Networks)
 
 ### Machine Learning (CUHK-Shenzhen)
-[👉 Code](https://github.com/AmyTao/ECE4016-Computer-Networks)
+[👉 GitHub](https://github.com/AmyTao/ECE4016-Computer-Networks)
 
 ---
 
