@@ -18,7 +18,9 @@
 [实习要点]
 [答辩ppt]
 [照片]
+
 ---
+
 ## ✨ Projects
 ### CS186: Database (Berkeley)
 [👉 Code](https://github.com/AmyTao/CS186-Database)
