@@ -12,8 +12,8 @@
 
 
 ### Generative Models
-#### 🔥 Independent AI Application: Stable Diffusion with Image Editing
-- A Project for BackDrop Build Hackathon
+#### 🔥 Independent AI Engineering Project: Stable Diffusion with Image Editing
+- Tech Stack: Stable Diffusion, ControlNet, Gradio, HuggingFace API
   - [👉 GitHub](https://github.com/AmyTao/Image-Editing-With-Stable-Diffusion)
 - Study Report
   - [👉 GitHub](https://github.com/AmyTao/CSC6137-Generative-Models)
@@ -23,15 +23,15 @@
 ### EE intern @ Amazon Asian Development Center
 
 - DC-DC converter and LDO circuit design
-- [My Internship Report](https://docs.google.com/presentation/d/1mLUHCWiKrravSWMgPCq_KNQd4oMpH96j/edit?usp=sharing&ouid=102058869752348221023&rtpof=true&sd=true)
+- [My Internship Final Report](https://docs.google.com/presentation/d/1mLUHCWiKrravSWMgPCq_KNQd4oMpH96j/edit?usp=sharing&ouid=102058869752348221023&rtpof=true&sd=true)
 
 ---
 
 ## ✨ Projects
-### CS186: Database (Berkeley)
+### RookieDB (Database Implementation) (Berkeley)
 [👉 GitHub](https://github.com/AmyTao/CS186-Database)
 
-### CS161: End-to-End Encrypted File System (Berkeley)
+### End-to-End Encrypted File System (Berkeley)
 - Collaborate with [Thea Feng](https://github.com/Thea-Feng)
 
 [👉 GitHub](https://github.com/cs161-students/sp23-proj2-midnights)
