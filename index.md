@@ -18,6 +18,10 @@
 - Study Report
   - [👉 GitHub](https://github.com/AmyTao/CSC6137-Generative-Models)
 
+### Ensemble Learning Model Evaluation and Deployment
+#### 🔥 Incentive mechanism design for distributed ensemble learning
+[👉 GitHub](https://github.com/AmyTao/Distributed_Ensemble_Learning_Pipeline)
+
 ---
 ## 👣 Internship
 ### EE intern @ Amazon Asian Development Center
